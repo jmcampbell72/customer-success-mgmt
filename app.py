@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 
 # Load the dataset into a pandas dataframe:
 
-df = pd.read_csv('training_file.csv')
+df = pd.read_csv('data/training_file.csv')
 
 # Split the data into training and testing sets:
 
