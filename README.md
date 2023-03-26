@@ -1,5 +1,5 @@
 # customer-success-mgmt
-Customer success management, metrics, training data and sentiment model.
+Customer success management, metrics, sentiment data.
 
 # data
 
